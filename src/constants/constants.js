@@ -13,7 +13,7 @@ export const projects = [
       "React-Icons",
     ],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/TamarawGuy/Portfolio",
     id: 0,
   },
   {
